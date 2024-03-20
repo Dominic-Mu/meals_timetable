@@ -1,4 +1,3 @@
-```markdown
 # Meal Timetable Generator
 
 A simple Flask web application to generate a monthly timetable for meals, allowing users to select the month and year.
@@ -70,5 +69,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to the Flask and pandas communities for their excellent documentation and support.
-
-```
